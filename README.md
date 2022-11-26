@@ -196,12 +196,11 @@ Home target
 
 
 
-##Program:
-/*
+### Program:
  
 Developed by: Arurru Sai Bandhavi
 RegisterNumber: 212221240006
-*/
+
 ```
 &ACCESS RVP
 &REL 1
@@ -267,6 +266,6 @@ END
 
  
 ## Results of simulation :
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/Saibandhavi75/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/blob/main/1.png?raw=true)
 ### RESULT:
  To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
